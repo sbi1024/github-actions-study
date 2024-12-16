@@ -9,5 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Hello World 출력
-        run: ehco "Hello World"
-      
+        run: echo "Hello World"
